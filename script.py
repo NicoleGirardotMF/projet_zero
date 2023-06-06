@@ -10,5 +10,5 @@ for i in range(10):
 
 print('end')
 print('restart')
-print('restop'
+print('restop')
 print('restart')
